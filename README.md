@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanyaMandal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++, react
+- 🌱 I’m currently learning c++, react, java
 
 
 <!---
